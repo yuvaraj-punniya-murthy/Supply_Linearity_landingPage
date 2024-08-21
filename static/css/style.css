@@ -1,0 +1,60 @@
+img{
+    height: 150px;
+    width: 150px;
+    margin-top: 35px;
+    margin-left: 90px;
+    box-shadow: 5px 5px 15px 1px black;
+    border-radius: 10px;
+}
+
+
+h1 {  
+    color:rgb(3, 83, 148); 
+    margin-top: 40px;   
+    margin-left: 10px;      
+} 
+
+header img
+{
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin-top: 10px;
+}
+
+h2 {  
+    color:black; 
+    margin-top: -90px; 
+    float: right;
+ } 
+
+ body{
+    background-color: #f1f1f1;
+ }
+header li
+{
+    display: inline;
+}
+
+ header li a
+ {
+    color: #333;
+    text-decoration: none;
+    padding: 10px;
+}
+
+ header ul #contact a
+ {
+    color: #fff;
+    background-color: blue;
+    border-radius: 20px;
+    float: right;
+    position: relative;
+    top: -30px;
+    transform: .3s ease;
+ }
+
+ header ul #contact a:hover
+ {
+    background-color: goldenrod
+ }
